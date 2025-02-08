@@ -1,0 +1,6 @@
+local
+node_modules
+.DS_Store
+.ipynb_checkpoints
+data
+package-lock.json
